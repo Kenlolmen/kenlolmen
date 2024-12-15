@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 
-Jestem studentem informatyki i na swoim githubie udostepniam swoje badania/testy, tutoriale i wlasne mniejsze lub wieksze programy. Chce sie specjalizowac i rozwijac w dotnecie. Ucze sie reacta na boku.
-
-Skills: ASP.NET CORE / EF CORE / C# / SOLID / MVC / REACT JS
-
 - 🌱 I’m currently learning C#/.NET 
 - 📫 How to reach me: jarugaaleksander3@gmail.com 
 
