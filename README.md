@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-- 🌱 I’m currently learning C#/.NET 
+- 🌱 I’m currently learning C#/.NET
+- In free time Im working on TicketSystem
 - 📫 How to reach me: jarugaaleksander3@gmail.com 
 
 
